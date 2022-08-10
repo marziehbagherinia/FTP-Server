@@ -1,0 +1,21 @@
+{
+  "commandChannelPort": 8000,
+  "dataChannelPort":8001,
+  "users": [
+    {
+		"user": "Ali",
+		"password": "1234",
+		"admin": "true",
+		"size": "1000000"
+    },
+    {
+		"user": "Mohsen",
+		"password": "1234",
+		"admin": "false",
+		"size": "1000000"
+    }
+  ],
+    "files": [
+      "config.json"
+    ]
+}
